@@ -21,9 +21,9 @@ Play the classic game of Tic-Tac-Toe either **against another player** or **agai
 - Draw if the board is full and no one wins. 🤝
 
 ## Board Positions 📋
-0 | 1 | 2
---+---+--
-3 | 4 | 5
---+---+--
-6 | 7 | 8
+    0 | 1 | 2
+    --+---+--
+    3 | 4 | 5
+    --+---+--
+    6 | 7 | 8
 
